@@ -1,0 +1,10 @@
+APP_NAME = 'WELCOME TO NBI POLICE  STATION'
+
+BLUE = '#3B9AE1'
+BLACK = '#000000'
+YELLOW = '#F6E3C5'
+WHITE = '#FEFBF6'
+
+FONT = ('Roboto', 18, 'bold')
+
+
